@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PrivateRSS Wordpress plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-04 18:48+0100\n"
+"PO-Revision-Date: 2009-09-04 18:51+0100\n"
+"Last-Translator: rrd <rrd@1108.cc>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: privateRSS.php:74
+msgid "Problem creating "
+msgstr "Nem tudtam létrehozni a "
+
+#: privateRSS.php:74
+msgid " table"
+msgstr " táblát"
+
+#: privateRSS.php:86
+msgid "This feed URL is not valid, so you will get just the summary feed!"
+msgstr "Ez az RSS url nem megfelelő, ezért csak a bevezetőket tartalmazó RSS forrást tudom számodra kiszolgálni."
+
+#: privateRSS.php:87
+msgid "Your subscription is overdued. From now you will get just the summary feed!"
+msgstr "Az előfizetésed lejárt, ezért mostantól csak a bevezetőket fogod látni."
+
+#: privateRSS.php:160
+#: privateRSS.php:177
+msgid "Settings"
+msgstr "Beállítások"
+
+#: privateRSS.php:167
+msgid "Decimals"
+msgstr "Tizedes jegyek"
+
+#: privateRSS.php:168
+msgid "Order"
+msgstr "Sorrend"
+
+#: privateRSS.php:169
+msgid "More text"
+msgstr "Tovább szöveg"
+
+#: privateRSS.php:170
+msgid "Summary lenght"
+msgstr "Bevezető hossz"
+
+#: privateRSS.php:171
+msgid "Show password protected"
+msgstr "Jelszóval védetteket is tartalmazza a feed"
+
+#: privateRSS.php:172
+msgid "Private category"
+msgstr "Privát kategória"
+
+#: privateRSS.php:173
+msgid "Date format"
+msgstr "Dátum formátum"
+
+#: privateRSS.php:174
+msgid "Invalid URL"
+msgstr "Hibás URL"
+
+#: privateRSS.php:175
+msgid "Subscription overdued"
+msgstr "Előfizetés lejárt"
+
+#: privateRSS.php:214
+msgid "Change"
+msgstr "Módosít"
+
+#: privateRSS.php:223
+msgid "<strong>ERROR</strong>: You have the \"<i>For each article in a feed, show</i>\" field set to <b>Summary</b> in the <a href=\"options-reading.php\">Options -> Reading page</a>. You must change this to <b>Full text</b> for PrivateRSS to work."
+msgstr "<strong>HIBA</strong>: A <a href=\"options-reading.php\">Beállítások -> Olvasás</a> oldalon a \"<i>Minden bejegyzéshez a hírfolyamban, mutasd </i>\" mező <b>Összegzésre</b> van állítva. Ezt módosítanod kell <b>Teljes szöveg</b>-re a PrivateRSS helyes működéséhez."
+
+#: privateRSS.php:233
+msgid "<strong>ERROR</strong>: The \"<i>Feedburner / Feedsmith</i>\" plugin is <b>active</b>."
+msgstr "<strong>HIBA</strong>: A \"<i>Feedburner / Feedsmith</i>\" plugin <b>aktív</b>."
+
+#: privateRSS.php:234
+msgid "Deactivate this plugin"
+msgstr "Plugin kikapcsolása"
+
+#: privateRSS.php:234
+msgid "Deactivate"
+msgstr "kapcsold ki"
+
+#: privateRSS.php:235
+#, php-format
+msgid "Please %s it for PrivateRSS to work. PrivateRSS will do the same for you as the Feedburner Feedsmith plugin."
+msgstr "Kérlek %s ahhoz, hogy a PrivateRSS helyesen működjön. A PrivateRSS megcsinálja ugyanazt mint a Feedburner Feedsmith plugin."
+
+#: privateRSS.php:240
+#: privateRSS.php:253
+msgid "New Subscriber"
+msgstr "Új feliratkozó"
+
+#: privateRSS.php:245
+msgid "E-mail"
+msgstr "E-mail"
+
+#: privateRSS.php:247
+#: privateRSS.php:307
+msgid "Registered"
+msgstr "Regisztrálva"
+
+#: privateRSS.php:249
+#: privateRSS.php:308
+msgid "Subscribtion end"
+msgstr "Előfizetés lejár"
+
+#: privateRSS.php:251
+#: privateRSS.php:309
+msgid "Income"
+msgstr "Bevétel"
+
+#: privateRSS.php:253
+#: privateRSS.php:328
+msgid "Edit"
+msgstr "Módosít"
+
+#: privateRSS.php:261
+msgid " is already registered subscriber. You could modify it if you want."
+msgstr " már regisztrált előfizető. Módosíthatod ha akarod."
+
+#: privateRSS.php:268
+msgid "Successfull subscription"
+msgstr "Sikeres feliratkozás"
+
+#: privateRSS.php:268
+#, php-format
+msgid ""
+"You have successfully subscribed to %s. \n"
+"You could access your private RSS feed by this url: %s till %s. \n"
+"\n"
+"Thank you for your subscription."
+msgstr ""
+"Sikeresen feliratkoztál a: %s privát RSS csatornájára. \n"
+"Egyéni RSS csatornádat a %s url-en keresztül tudod elérni %s-ig.\n"
+"\n"
+"Köszönjük az adományt."
+
+#: privateRSS.php:296
+#: privateRSS.php:304
+msgid "Subscribers"
+msgstr "Előfizetők"
+
+#: privateRSS.php:302
+msgid "Action"
+msgstr "Teendő"
+
+#: privateRSS.php:304
+#: privateRSS.php:307
+#: privateRSS.php:308
+#: privateRSS.php:309
+msgid "Change order"
+msgstr "Sorrend váltás"
+
+#: privateRSS.php:305
+msgid "Add new"
+msgstr "Új"
+
+#: privateRSS.php:329
+msgid "Delete"
+msgstr "Töröl"
+

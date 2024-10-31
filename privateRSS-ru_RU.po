@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PrivateRSS Wordpress plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-31 19:44+0100\n"
+"PO-Revision-Date: 2009-09-03 21:19+0200\n"
+"Last-Translator: Fat Cow <zhr@tut.by>\n"
+"Language-Team: Fat Cow <zhr@tut.by>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: privateRSS.php:74
+msgid "Problem creating "
+msgstr "Проблема создания"
+
+#: privateRSS.php:74
+msgid " table"
+msgstr " таблица"
+
+#: privateRSS.php:160
+#: privateRSS.php:177
+msgid "Settings"
+msgstr "Настройки"
+
+#: privateRSS.php:167
+msgid "Decimals"
+msgstr "Tizedes jegyek"
+
+#: privateRSS.php:168
+msgid "Order"
+msgstr "Старше"
+
+#: privateRSS.php:169
+msgid "More text"
+msgstr "Больше текста"
+
+#: privateRSS.php:170
+msgid "Summary lenght"
+msgstr "Общая длина"
+
+#: privateRSS.php:171
+msgid "Show password protected"
+msgstr "Показать защищенное паролем"
+
+#: privateRSS.php:172
+msgid "Private category"
+msgstr "Приватная категория"
+
+#: privateRSS.php:173
+msgid "Date format"
+msgstr "Формат даты"
+
+#: privateRSS.php:174
+msgid "Invalid URL"
+msgstr "Неправильный URL"
+
+#: privateRSS.php:175
+msgid "Subscription overdued"
+msgstr "Подписка просрочена"
+
+#: privateRSS.php:214
+msgid "Change"
+msgstr "Изменить"
+
+#: privateRSS.php:223
+msgid "<strong>ERROR</strong>: You have the \"<i>For each article in a feed, show</i>\" field set to <b>Summary</b> in the <a href=\"options-reading.php\">Options -> Reading page</a>. You must change this to <b>Full text</b> for PrivateRSS to work."
+msgstr "<strong>ОШИБКА</strong>: You have the \"<i>For each article in a feed, show</i>\" field set to <b>Summary</b> in the <a href=\"options-reading.php\">Options -> Reading page</a>. You must change this to <b>Full text</b> for PrivateRSS to work."
+
+#: privateRSS.php:233
+msgid "<strong>ERROR</strong>: The \"<i>Feedburner / Feedsmith</i>\" plugin is <b>active</b>."
+msgstr "<strong>ОШИБКА</strong>: \"<i>Feedburner / Feedsmith</i>\" плагин <b>активен</b>."
+
+#: privateRSS.php:234
+msgid "Deactivate this plugin"
+msgstr "Деактивация плагина"
+
+#: privateRSS.php:234
+msgid "Deactivate"
+msgstr "Деактивация"
+
+#: privateRSS.php:235
+#, php-format
+msgid "Please %s it for PrivateRSS to work. PrivateRSS will do the same for you as the Feedburner Feedsmith plugin."
+msgstr "%s для работы PrivateRSS. PrivateRSS будет делать то же самое для вас, что и плагин FeedBurner FeedSmith."
+
+#: privateRSS.php:240
+#: privateRSS.php:253
+msgid "New Subscriber"
+msgstr "Новый подписчик"
+
+#: privateRSS.php:245
+msgid "E-mail"
+msgstr "E-mail"
+
+#: privateRSS.php:247
+#: privateRSS.php:307
+msgid "Registered"
+msgstr "Зарегистрирован"
+
+#: privateRSS.php:249
+#: privateRSS.php:308
+msgid "Subscribtion end"
+msgstr "Подписка закончилась"
+
+#: privateRSS.php:251
+#: privateRSS.php:309
+msgid "Income"
+msgstr "Входящие"
+
+#: privateRSS.php:253
+#: privateRSS.php:328
+msgid "Edit"
+msgstr "редактировать"
+
+#: privateRSS.php:261
+msgid " is already registered subscriber. You could modify it if you want."
+msgstr " уже зарегистрированный подписчик. Вы можете изменить это, если нужно."
+
+#: privateRSS.php:268
+msgid "Successfull subscription"
+msgstr "Подписан. "
+
+#: privateRSS.php:268
+#, php-format
+msgid ""
+"You have successfully subscribed to %s. \n"
+"You could access your private RSS feed by this url: %s till %s. \n"
+"\n"
+"Thank you for your subscription."
+msgstr ""
+"You have successfully subscribed to %s. \n"
+"You could access your private RSS feed by this url: %s till %s. \n"
+"\n"
+"Thank you for your subscription."
+
+#: privateRSS.php:296
+#: privateRSS.php:304
+msgid "Subscribers"
+msgstr "Подписчики"
+
+#: privateRSS.php:302
+msgid "Action"
+msgstr "Действие"
+
+#: privateRSS.php:304
+#: privateRSS.php:307
+#: privateRSS.php:308
+#: privateRSS.php:309
+msgid "Change order"
+msgstr "Изменить порядок"
+
+#: privateRSS.php:305
+msgid "Add new"
+msgstr "Добавить новый"
+
+#: privateRSS.php:329
+msgid "Delete"
+msgstr "Удалить"
+

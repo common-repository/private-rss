@@ -1,0 +1,29 @@
+.prsssettingsform label{
+	font-weight: bold;
+	display: block;
+}
+
+.prsssettingsform input{
+	width: 40em;
+}
+
+.prsstra{
+	background-color: #eee;
+	}
+.prsstroverdued{
+	background-color: #fa3;
+	}
+.prssincome{text-align: right;}
+
+.prsssettings{
+	padding: 0.4em;
+	background: #F1F1F1 url(../images/menu-bits.gif);
+	text-decoration: none;
+}
+.prsssettings:hover{
+	background: #6D6D6D url(../images/menu-bits.gif);
+	color: #ffc;
+}
+#registered, #due, #income{
+	width: 8em;
+}
